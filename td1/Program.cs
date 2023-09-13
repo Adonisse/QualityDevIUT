@@ -40,3 +40,5 @@ public class CD : Media
     {
     }
 }
+
+public void AfficherInfos()
